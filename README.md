@@ -5,4 +5,4 @@ A travelogue app for android with Firebase Authentication and Realtime Database
 - Firebase
 
 ## Screenshots
-<img src="TravelogueApp/ss0.png" width=300>          <img src="TravelogueApp/ss1.png" width=300>          <img src="TravelogueApp/ss2.png" width=300>          <img src="TravelogueApp/ss3.png" width=300>          <img src="TravelogueApp/ss4.png" width=300>          <img src="TravelogueApp/ss5.png" width=300>          <img src="TravelogueApp/ss6.png" width=300>          <img src="TravelogueApp/ss7.png" width=300>
+<img src="screenshots/ss0.png" width=300>          <img src="screenshots/ss1.png" width=300>          <img src="screenshots/ss2.png" width=300>          <img src="screenshots/ss3.png" width=300>          <img src="screenshots/ss4.png" width=300>          <img src="screenshots/ss5.png" width=300>          <img src="screenshots/ss6.png" width=300>          <img src="screenshots/ss7.png" width=300>
